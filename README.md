@@ -2,7 +2,9 @@
 This is Glamorous Beauty's online shop, the secured version.
 
 This website is prepared for Web Technology and Security Subject.
-Note that it is the secured version, you can find the vulnerable version from the below link: 
+Note that it is the secured version, you can find the vulnerable version from the below link: https://github.com/SaraSub77/GlamorousBeauty_UNSECURED_Website.git
+
+
 where you can apply multiple XSS Attacks on it. 
 
 
